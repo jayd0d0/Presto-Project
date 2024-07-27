@@ -1,0 +1,5 @@
+- In the presentation preview when 'present' is clicked, the current slide that the user is on is shown as the present screen
+- Routes that shouldn't be accessed such as `localhost:3000/edit/`, `localhost:3000/preview` and `localhost:3000/preview/"presentationId that doesn't exist"` will redirect to a possible route the user can access such as login page or the dashboard.
+- In the login page, there is a button saying "Click here to register" if you don't have an account so that the user doesn't need to manually change the link to `localhost:3000/register`
+- When trying to access the `localhost:3000` the user is redirected to the login page
+- When the user is picking a colour for the background, the user can pick a hex from a "colour wheel" or manually type a hex colour themselves.

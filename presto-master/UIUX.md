@@ -1,0 +1,5 @@
+- Display warning for certain action, e.g. if you try to register without any email it won't let you.
+- Minimalist design to keep it easy to navigate
+- Side bar for the slides to easy use to add or create new elements on the slide.
+- Consistent font choices and color themes enhance the approachability of designs and minimize confusion.
+- If a user adds a presentation with no name, it will have the default name of untitled.
